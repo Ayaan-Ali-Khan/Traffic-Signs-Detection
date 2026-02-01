@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Detection with YOLOv8
+# 🚦 Traffic Signs Detection with YOLOv8
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
@@ -14,7 +14,7 @@ A real-time traffic sign detection system powered by YOLOv8, capable of identify
 
 ### Detection Examples
 
-<img src="images/00002_00000_00016_png.rf.5c98b3aeaa1ebc1ebc1afb2b2e8d9750.jpg" alt="Traffic Sign Detection Sample 1" width=30%/>
+<img src="images/000488_jpg.rf.39fb3e780926eca95137e27b755f19af.jpg" alt="Traffic Sign Detection Sample 1" width=30%/>
 <img src="images/000100_jpg.rf.8948ed8c132dae637b8dde18d0c5be7b.jpg" alt="Traffic Sign Detection Sample 2" width="30%"/>
 <img src="images/000867_JPG_jpg.rf.0961b153fd2cdd7f71455ca70b9226fc.jpg" alt="Traffic Sign Detection Sample 2" width="30%"/>
 
